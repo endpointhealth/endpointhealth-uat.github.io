@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e34fb1d3.css",
-    "main.js": "/static/js/main.4a52a3b9.js",
+    "main.css": "/static/css/main.bc210c74.css",
+    "main.js": "/static/js/main.0d1996a2.js",
     "static/js/453.b12a1191.chunk.js": "/static/js/453.b12a1191.chunk.js",
     "static/media/scanner-female.png": "/static/media/scanner-female.c5302031c191b3ebf559.png",
     "static/media/scanner-male.png": "/static/media/scanner-male.42d9ac91798ee94a0d8d.png",
     "static/media/world-health.png": "/static/media/world-health.bec8e47cf945c1a857f6.png",
     "static/media/Doctor_Male_96.png": "/static/media/Doctor_Male_96.5a968098845e6259768f.png",
     "static/media/Doctor_Female.jpg": "/static/media/Doctor_Female.7e2ec594490c93bf5289.jpg",
+    "static/media/diagnostic_96.png": "/static/media/diagnostic_96.98e9d9c06ff8e650f568.png",
     "static/media/Doctor_Female_96.png": "/static/media/Doctor_Female_96.819a9534979d81a44c8f.png",
     "static/media/Patient_Male_96.png": "/static/media/Patient_Male_96.ff9828438842e8157824.png",
     "static/media/Patient_Female_96.png": "/static/media/Patient_Female_96.b085fcc7e395fb0daee6.png",
     "index.html": "/index.html",
-    "main.e34fb1d3.css.map": "/static/css/main.e34fb1d3.css.map",
-    "main.4a52a3b9.js.map": "/static/js/main.4a52a3b9.js.map",
+    "main.bc210c74.css.map": "/static/css/main.bc210c74.css.map",
+    "main.0d1996a2.js.map": "/static/js/main.0d1996a2.js.map",
     "453.b12a1191.chunk.js.map": "/static/js/453.b12a1191.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e34fb1d3.css",
-    "static/js/main.4a52a3b9.js"
+    "static/css/main.bc210c74.css",
+    "static/js/main.0d1996a2.js"
   ]
 }
