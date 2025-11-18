@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.81ee998a.css",
-    "main.js": "/static/js/main.55a576b9.js",
-    "static/js/453.b12a1191.chunk.js": "/static/js/453.b12a1191.chunk.js",
+    "main.css": "/static/css/main.56993203.css",
+    "main.js": "/static/js/main.82aa784b.js",
+    "static/js/453.9116c810.chunk.js": "/static/js/453.9116c810.chunk.js",
     "static/media/scanner-female.png": "/static/media/scanner-female.c5302031c191b3ebf559.png",
     "static/media/scanner-male.png": "/static/media/scanner-male.42d9ac91798ee94a0d8d.png",
     "static/media/world-health.png": "/static/media/world-health.bec8e47cf945c1a857f6.png",
+    "static/media/diagnostic-report-1.png": "/static/media/diagnostic-report-1.58825ae97f8fd33028a8.png",
+    "static/media/media-1.png": "/static/media/media-1.7952cdeec58107133522.png",
     "static/media/Doctor_Male_96.png": "/static/media/Doctor_Male_96.5a968098845e6259768f.png",
+    "static/media/doc-ref-1.png": "/static/media/doc-ref-1.621075636c32cb960ff8.png",
     "static/media/Doctor_Female.jpg": "/static/media/Doctor_Female.7e2ec594490c93bf5289.jpg",
-    "static/media/diagnostic_96.png": "/static/media/diagnostic_96.98e9d9c06ff8e650f568.png",
     "static/media/Doctor_Female_96.png": "/static/media/Doctor_Female_96.819a9534979d81a44c8f.png",
     "static/media/Patient_Male_96.png": "/static/media/Patient_Male_96.ff9828438842e8157824.png",
     "static/media/Patient_Female_96.png": "/static/media/Patient_Female_96.b085fcc7e395fb0daee6.png",
     "index.html": "/index.html",
-    "main.81ee998a.css.map": "/static/css/main.81ee998a.css.map",
-    "main.55a576b9.js.map": "/static/js/main.55a576b9.js.map",
-    "453.b12a1191.chunk.js.map": "/static/js/453.b12a1191.chunk.js.map"
+    "main.56993203.css.map": "/static/css/main.56993203.css.map",
+    "main.82aa784b.js.map": "/static/js/main.82aa784b.js.map",
+    "453.9116c810.chunk.js.map": "/static/js/453.9116c810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81ee998a.css",
-    "static/js/main.55a576b9.js"
+    "static/css/main.56993203.css",
+    "static/js/main.82aa784b.js"
   ]
 }
