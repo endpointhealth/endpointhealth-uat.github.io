@@ -1,10 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.927408d2.css",
-    "main.js": "/static/js/main.dc47656e.js",
-    "static/js/453.9116c810.chunk.js": "/static/js/453.9116c810.chunk.js",
-    "static/media/scanner-female.png": "/static/media/scanner-female.c5302031c191b3ebf559.png",
-    "static/media/scanner-male.png": "/static/media/scanner-male.42d9ac91798ee94a0d8d.png",
+    "main.js": "/static/js/main.408cf3d1.js",
+    "static/js/453.b12a1191.chunk.js": "/static/js/453.b12a1191.chunk.js",
     "static/media/diagnostic-report-1.png": "/static/media/diagnostic-report-1.58825ae97f8fd33028a8.png",
     "static/media/world-health.png": "/static/media/world-health.6e3eaa36bcd0df71a1f8.png",
     "static/media/media-1.png": "/static/media/media-1.7952cdeec58107133522.png",
@@ -16,11 +14,11 @@
     "static/media/Patient_Female_96.png": "/static/media/Patient_Female_96.b085fcc7e395fb0daee6.png",
     "index.html": "/index.html",
     "main.927408d2.css.map": "/static/css/main.927408d2.css.map",
-    "main.dc47656e.js.map": "/static/js/main.dc47656e.js.map",
-    "453.9116c810.chunk.js.map": "/static/js/453.9116c810.chunk.js.map"
+    "main.408cf3d1.js.map": "/static/js/main.408cf3d1.js.map",
+    "453.b12a1191.chunk.js.map": "/static/js/453.b12a1191.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.927408d2.css",
-    "static/js/main.dc47656e.js"
+    "static/js/main.408cf3d1.js"
   ]
 }
