@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b402e503.css",
-    "main.js": "/static/js/main.2524cef3.js",
+    "main.js": "/static/js/main.da8ca9b3.js",
     "static/js/453.b12a1191.chunk.js": "/static/js/453.b12a1191.chunk.js",
     "static/media/diagnostic-report-1.png": "/static/media/diagnostic-report-1.58825ae97f8fd33028a8.png",
     "static/media/world-health.png": "/static/media/world-health.6e3eaa36bcd0df71a1f8.png",
@@ -15,11 +15,11 @@
     "static/media/Patient_Female_96.png": "/static/media/Patient_Female_96.b085fcc7e395fb0daee6.png",
     "index.html": "/index.html",
     "main.b402e503.css.map": "/static/css/main.b402e503.css.map",
-    "main.2524cef3.js.map": "/static/js/main.2524cef3.js.map",
+    "main.da8ca9b3.js.map": "/static/js/main.da8ca9b3.js.map",
     "453.b12a1191.chunk.js.map": "/static/js/453.b12a1191.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b402e503.css",
-    "static/js/main.2524cef3.js"
+    "static/js/main.da8ca9b3.js"
   ]
 }
